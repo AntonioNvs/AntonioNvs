@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 
 ## Antônio Neves
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/user/techlogican)]
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/user/techlogican)](https://www.youtube.com/user/techlogican)
 
 
