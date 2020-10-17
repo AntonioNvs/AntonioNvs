@@ -14,15 +14,14 @@ Here are some ideas to get you started:
 -->
 
 # Antônio Neves
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/user/techlogican)](https://www.youtube.com/user/techlogican)
 
 ## Hiiii! Welcome to my profile
 
 I'm a programming enthusiast, without a specific niche, I like everything 😄😄😄
-I do some little things in Pyhton as a joke to learn, and I'm studying React Native, making some apps...
+I do some little things in Python, I am studying Data Science and React Native, making some applications...
 
-- 😄 I really like to learn
-- 📫 How to reach me: tonim2612@gmail.com
+- 😄 Always seeking to learn more
+- 📫 How to reach me: an.caetano.neves@gmail.com
 
 
 
