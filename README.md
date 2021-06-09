@@ -5,13 +5,23 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5533999702960!)](https://api.whatsapp.com/send?phone=5533999702960!)
 
 
-## Hiiii! Welcome to my profile
+## Oiiii! Bem vindo ao meu perfil! 😊
 
-I'm a programming enthusiast, without a specific niche, I like everything 😄😄😄
-I do some little things in Python and React Native, I am studying Data Science, making some applications...
+Gosto muito da área de Ciência de Dados e de Machine Learning, e principalmente na aplicação dos conhecimentos em meu dia a dia.
 
-- 😄 Always seeking to learn more
-- 📫 How to reach me: an.caetano.neves@gmail.com
+
+ <div>
+  <a href="https://github.com/AntonioNvs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioNvs&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Antônio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Antônio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Antônio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Antônio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Antônio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
 
 
 
