@@ -7,7 +7,7 @@
 
 ## Oiiii! Bem vindo ao meu perfil! 😊
 
-Gosto muito da área de Ciência de Dados e de Machine Learning, e principalmente na aplicação dos conhecimentos em meu dia a dia.
+Gosto muito da área de Ciência de Dados e de Machine Learning, e principalmente na aplicação dos conhecimentos em meu dia a dia. Atualmente, sou estudante de Ciência da Computação na UFMG.
 
 
  <div>
