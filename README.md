@@ -4,9 +4,9 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5533999702960!)](https://api.whatsapp.com/send?phone=5533999702960!) -->
 
 
-## Oiiii! Bem vindo ao meu perfil! 😊
+## Falaa!! Bem vindo ao meu perfil!
 
-Sou um entusiasta da área de tecnologia, e principalmente na aplicação dos conhecimentos em meu dia a dia. Atualmente, sou estudante de Ciência da Computação na UFMG.
+Sou entusiasta de tecnologia, principalmente relacionado as áreas de Machine Learning e análsise de dados. Atualmente, sou graduando de Ciência da Computação pela UFMG, a melhor faculdade do país na área, participando de uma iniciação científica do Ministério Público.
 
 
  <div>
