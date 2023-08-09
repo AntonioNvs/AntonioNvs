@@ -6,7 +6,7 @@
 
 ## Falaa!! Bem vindo ao meu perfil!
 
-Sou entusiasta de tecnologia, principalmente relacionado as áreas de Machine Learning e análsise de dados. Atualmente, sou graduando de Ciência da Computação pela UFMG, a melhor faculdade do país na área, participando de uma iniciação científica do Ministério Público.
+Sou entusiasta de tecnologia, principalmente relacionado as áreas de Machine Learning e análsise de dados. Atualmente, sou graduando de Ciência da Computação pela UFMG, a melhor faculdade do país na área, participando de uma iniciação científica com a ISQL Brasil no setor do petróleo.
 
 
  <div>
