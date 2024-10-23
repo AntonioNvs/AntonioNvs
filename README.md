@@ -1,12 +1,17 @@
 <div align="center">
-  <img height="151" src="https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/Data%20Science%201600x800.jpg"  href="https://www.linkedin.com/in/antonio-caetano-neves/"/>
+  <img height="151" src="https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/Data%20Science%201600x800.jpg"/>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/antonio-caetano-neves/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+
+  <a href="https://www.instagram.com/anthnioneves" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
@@ -17,15 +22,26 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey There 👋</h1>
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+<p align="left">I'm Antônio Neves from Brazil!<br><br>- 🔭 I’m working as as a student researcher in the oil and gas industry, where I utilize AI to predict tubulation corrosion, leveraging technologies such as TensorFlow and Python.<br>- 📚 I am a Computer Science student with a strong focus on Data Science and Artificial Intelligence.<br>-⚡ My expertise spans neural networks, predictive modeling, and deep learning, with a goal of applying cutting-edge AI solutions to real-world problems.</p>
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+###
+
+<h3 align="left">👨‍💻 Portfolio</h3>
+
+<a href="" target="_blank">
+  College Projects
+</a><br>
+
+<a href="" target="_blank">
+  Financial Projects using DS & AI
+</a><br>
 
 ###
 
