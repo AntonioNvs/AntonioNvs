@@ -32,11 +32,11 @@
 
 <h3 align="left">👨‍💻 Portfolio</h3>
 
-<a href="" target="_blank">
+<a href="https://github.com/AntonioNvs/college-codes" target="_blank">
   College Projects
 </a><br>
 
-<a href="" target="_blank">
+<a href="https://github.com/AntonioNvs/finance-projects" target="_blank">
   Financial Projects using DS & AI
 </a><br>
 
